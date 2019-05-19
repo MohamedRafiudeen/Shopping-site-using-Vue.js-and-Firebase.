@@ -4,8 +4,23 @@ Shopping-site-using-Vue.js-and-Firebase.
 Objective: 
           This project is to implement a shopping website for a hotel organisation.
           
+          
+          
+          
+          
+TOOLS USED:
+
+1. Vue.js Framework.
+
+2. Bootstrap CSS.
+
+3. Firebase.
+
+
+          
 
 Requirements: (Accomplished so far):
+
 1. The website is supposed to have navigatable pages for each of the shopping processes(viewing menu items, adding to cart, placing order).
 
 
