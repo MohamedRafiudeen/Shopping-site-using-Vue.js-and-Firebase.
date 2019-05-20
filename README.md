@@ -10,7 +10,7 @@ Objective:
           
 TOOLS USED:
 
-1. Vue.js Framework.
+1. Vue.js Framework., ES6, AJAX
 
 2. Bootstrap CSS.
 
